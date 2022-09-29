@@ -1,2 +1,9 @@
 #link{color:rgb(255, 255, 255); font-size: 25;}
 #body{background-color:rgb(26, 26, 26);font-family: 'Roboto';color:rgb(255, 255, 255)}
+td{
+    border: 5px dotted white;
+    border-radius: 25px;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
